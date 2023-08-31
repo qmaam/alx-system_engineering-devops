@@ -1,1 +1,1 @@
-shell permissions
+shell permissions modify
